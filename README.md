@@ -2,4 +2,4 @@
 
 
 
-In this Jedi Task you will be practicing basic python variables and operators. You will be working in PyCharm's Interactive Python Console Window. When you are done you will click the print icon next to the window and Save your session as a PDF. This file will be uploaded to your Ch 2 repository
+In this Jedi Task you will be practicing basic python variables and operators. You will be working in PyCharm's Interactive Python Console Window. When you are done you will click the print icon next to the console window and save your session as a PDF. This file will be uploaded to your Ch 2 repository
