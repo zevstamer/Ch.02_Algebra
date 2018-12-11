@@ -2,5 +2,6 @@
 
 In this chapter you will be practicing basic python variables and operators. You will be working in PyCharm's Interactive Python Console Window. 
 
-<h3>Jedi Task</h3>
-When you are done you will click the print icon next to the console window and save your session as a PDF. This file will be uploaded to your Ch 2 repository
+<h3>Jedi Tasks</h3>
+1.) PDF Log
+2.) Take Home Test
