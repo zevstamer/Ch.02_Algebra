@@ -6,21 +6,23 @@ Sign your name:________________
 
 
 
-2.) What is the output of each line of the following if b=5 and a=2
+2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
+What are the outputs?
 
-b/a
-b//a
-b**a
-b%a
-a+B
-type(42)
-type(42.0)
-type("C3PO")
-type(True)
+b/a                 =
+b//a                =
+b**a                =
+b%a                 =
+a+B                 =
+type(42)            =
+type(42.0)          =
+type("C3PO")        =
+type(True)          =
 
 
 
-3.) What is the final output of (a) and its type?
+3.) What is the final output of (a) and type(a) if you enter the following 5 lines
+into the Python Console Window?
 
 a=2
 a*=10
@@ -28,8 +30,8 @@ a/=2
 a+=12
 a-=7
 
-a
-type(a)
+a             =
+type(a)       =
 
 
 
